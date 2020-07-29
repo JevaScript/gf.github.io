@@ -1,0 +1,173 @@
+html,body
+{
+    padding:0; margin: 0;
+}
+
+.menu2
+{
+    width: 100%;
+    height: 80px;
+    background: #8586a0;
+}
+
+.collection
+{
+    display: inline;
+    padding: 0; margin: 0 20px;
+    line-height: 80px;
+    font-family: 'Roboto';
+    color: #ffffff;
+
+}
+
+.pub
+{
+    background: url('gratisography-staircase-break.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+   
+    
+    
+}
+
+.robes
+{
+    width: 150px;
+    height: 200px;
+    border: 1px solid transparent;
+    background: white;  
+    transition: transform .2s;
+    background: url('gratisography-137H.jpg');
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.robes:hover
+{
+    transform: scale(1.5);
+}
+
+.pantalons
+{
+    width: 150px;
+    height: 200px;
+    border: 1px solid transparent;
+    background: white;
+    transition: transform .2s;
+    background: url('gratisography-216H.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.pantalons:hover
+{
+    transform: scale(1.5);
+}
+
+
+.crop
+{
+    width: 150px;
+    height: 200px;
+    border: 1px solid transparent;
+    background: white; 
+    margin: 0 40px;
+    transition: transform .2s;
+    background: url('gratisography-163H.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.crop:hover
+{
+    transform: scale(1.5);
+}
+
+
+
+.outlet
+{
+    display: inline-flex;
+    margin-top: 300px;
+    
+    
+    
+}
+
+h6
+{
+    color: #ffffff;
+    font-family: 'Roboto';
+    border: 1px solid transparent;
+    background: black;
+    
+}
+
+.like
+{
+    color: #ffffff;
+    text-align: center;
+    transition: transform .3s;
+}
+
+.like:hover
+{
+    transform: scale(1.5);
+    
+}
+
+.hears
+{
+    color: red;
+    transition: .4s;
+}
+
+a 
+{
+    text-decoration: none;
+}
+
+.listoption2 
+{
+    text-align: center;
+    padding-top: 15px;
+    margin: auto;
+    padding: 0;
+    
+   
+}
+
+.deroulant2
+{
+ 
+    
+    border: 1px solid transparent;
+    background: #8586a0;
+    width: 250px;
+    padding-top: 15px;
+    position: absolute;
+    left: 120px;
+    
+   
+    
+}
+
+.onglet2
+{
+    color: #ffffff;
+    font-family: 'Roboto';
+    
+}
+
+.listonglet2
+{
+    line-height: 40px;
+    text-align: center;
+   
+}
+
+
